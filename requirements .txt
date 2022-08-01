@@ -3,4 +3,10 @@ numpy==1.17.4
 streamlit==0.80.0
 Pillow==8.3.0
 opencv-python-headless
-streamlit-webrtc~=0.11.0
+streamlit_webrtc==0.42.0
+torch
+torchvision
+requests
+tqdm
+
+
